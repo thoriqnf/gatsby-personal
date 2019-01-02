@@ -1,1 +1,1 @@
-# slack-clone
+#Thoriq personal website build using gatsby
